@@ -1,5 +1,5 @@
 # Generator
-mybatis逆向工程（实现数据库到Java对象的映射）：
+mybatis逆向工程（实现数据库到Java对象的映射）：<br/>
 1、
 generatorConfig-base.xml<br/>
 generatorConfig-business.xml<br/>
